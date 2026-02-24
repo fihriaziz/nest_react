@@ -1,0 +1,1 @@
+{"version":3,"file":"update-todo.dto.js","sourceRoot":"","sources":["../../../src/todos/dto/update-todo.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAyC;AAEzC,MAAa,aAAa;IAIxB,MAAM,CAAmD;CAC1D;AALD,sCAKC;AADC;IAHC,IAAA,wBAAM,EAAC,CAAC,SAAS,EAAE,WAAW,EAAE,UAAU,EAAE,SAAS,CAAC,EAAE;QACvD,OAAO,EAAE,qEAAqE;KAC/E,CAAC;;6CACuD"}
